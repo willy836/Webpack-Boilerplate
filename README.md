@@ -1,14 +1,4 @@
-<a name="readme-top">Webpack boilerplate</a>
 
-
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -52,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -95,7 +85,7 @@ This project can be used by anyone who may want to practice how to setup Webpack
 
 ## 👥 Author <a name="author"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author**
 
