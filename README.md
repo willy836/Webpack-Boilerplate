@@ -87,7 +87,7 @@ This project can be used by anyone who may want to practice how to setup Webpack
 
 
 
-👤 **Author**
+👤 **Wilson Kimiri**
 
 - GitHub: [@willy836](https://github.com/willy836)
 - Twitter: [@Kimiri836](https://twitter.com/Kimiri836)
